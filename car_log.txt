@@ -1,0 +1,501 @@
+2023-01-23 11:54:16.168584 - The initial acceleration was not successful
+2023-01-23 11:54:16.168584 - Car stopped.
+
+2023-01-23 11:54:16.168584 - The test -pass 10
+2023-01-23 11:54:16.168584 - Car started moving.
+2023-01-23 11:54:16.168584 - Accelerated by 30 to 20 km/h
+
+2023-01-23 11:54:16.168584 - The test -pass 8
+2023-01-23 11:54:16.168584 - Accelerated by 60 to 20 km/h
+
+2023-01-23 11:54:16.168584 - The test -pass 9
+2023-01-23 11:54:16.168584 - 2023-01-23 11:54:16.168584 - Cannot refuel with negative amount.
+2023-01-23 11:54:16.168584 - 2023-01-23 11:54:16.168584 - Cannot refuel with negative amount.
+2023-01-23 11:54:16.184178 - 2023-01-23 11:54:16.184178 - Cannot refuel with negative amount.
+2023-01-23 11:54:16.184178 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 11:54:16.184178
+
+2023-01-23 11:54:16.184178 - The test -pass 0
+2023-01-23 11:54:16.184178 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 11:54:16.184178
+
+2023-01-23 11:54:16.184178 - The test -pass 3
+2023-01-23 11:54:16.184178 - The test -failed 3
+2023-01-23 11:54:16.184178 - 2023-01-23 11:54:16.184178 - Cannot refuel with negative amount.
+2023-01-23 11:54:16.184178 - The test -failed 4
+2023-01-23 11:54:16.184178 - The test -pass 1
+2023-01-23 11:54:16.184178 - The test -pass 2
+2023-01-23 11:54:16.184178 - Car stopped.
+
+2023-01-23 11:54:16.184178 - The test -pass 6
+2023-01-23 11:54:16.184178 - Car stopped.
+
+2023-01-23 11:54:16.184178 - The test -pass 5
+2023-01-23 11:56:57.461934 - The initial acceleration was not successful
+2023-01-23 11:56:57.461934 - Car stopped.
+
+2023-01-23 11:56:57.461934 - The test -pass 10
+2023-01-23 11:56:57.467476 - Car started moving.
+2023-01-23 11:56:57.467476 - Accelerated by 30 to 20 km/h
+
+2023-01-23 11:56:57.467476 - The test -pass 8
+2023-01-23 11:56:57.469146 - Accelerated by 60 to 20 km/h
+
+2023-01-23 11:56:57.469146 - The test -pass 9
+2023-01-23 11:56:57.469146 - 2023-01-23 11:56:57.469146 - Cannot refuel with negative amount.
+2023-01-23 11:56:57.472325 - 2023-01-23 11:56:57.472325 - Cannot refuel with negative amount.
+2023-01-23 11:56:57.472325 - 2023-01-23 11:56:57.472325 - Cannot refuel with negative amount.
+2023-01-23 11:56:57.472325 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 11:56:57.472325
+
+2023-01-23 11:56:57.472325 - The test -pass 0
+2023-01-23 11:56:57.472325 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 11:56:57.472325
+
+2023-01-23 11:56:57.472325 - The test -pass 3
+2023-01-23 11:56:57.472325 - The test -failed 3
+2023-01-23 11:56:57.472325 - 2023-01-23 11:56:57.472325 - Cannot refuel with negative amount.
+2023-01-23 11:56:57.472325 - The test -failed 4
+2023-01-23 11:56:57.482525 - The test -pass 1
+2023-01-23 11:56:57.483567 - The test -pass 2
+2023-01-23 11:56:57.483567 - Car stopped.
+
+2023-01-23 11:56:57.483567 - The test -pass 6
+2023-01-23 11:56:57.483567 - Car stopped.
+
+2023-01-23 11:56:57.483567 - The test -pass 5
+2023-01-23 11:57:13.630373 - The initial acceleration was not successful
+2023-01-23 11:57:13.630373 - Car stopped.
+
+2023-01-23 11:57:13.630373 - The test -pass 10
+2023-01-23 11:57:13.646036 - Car started moving.
+2023-01-23 11:57:13.646036 - Accelerated by 30 to 20 km/h
+
+2023-01-23 11:57:13.646036 - The test -pass 8
+2023-01-23 11:57:13.647934 - Accelerated by 60 to 20 km/h
+
+2023-01-23 11:57:13.647934 - The test -pass 9
+2023-01-23 11:57:13.647934 - 2023-01-23 11:57:13.647934 - Cannot refuel with negative amount.
+2023-01-23 11:57:13.647934 - 2023-01-23 11:57:13.647934 - Cannot refuel with negative amount.
+2023-01-23 11:57:13.647934 - 2023-01-23 11:57:13.647934 - Cannot refuel with negative amount.
+2023-01-23 11:57:13.657717 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 11:57:13.657717
+
+2023-01-23 11:57:13.657717 - The test -pass 0
+2023-01-23 11:57:13.659098 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 11:57:13.659098
+
+2023-01-23 11:57:13.659098 - The test -pass 3
+2023-01-23 11:57:13.659098 - The test -failed 3
+2023-01-23 11:57:13.659098 - 2023-01-23 11:57:13.659098 - Cannot refuel with negative amount.
+2023-01-23 11:57:13.659098 - The test -failed 4
+2023-01-23 11:57:13.659098 - The test -pass 1
+2023-01-23 11:57:13.662104 - The test -pass 2
+2023-01-23 11:57:13.662104 - Car stopped.
+
+2023-01-23 11:57:13.662104 - The test -pass 6
+2023-01-23 11:57:13.662104 - Car stopped.
+
+2023-01-23 11:57:13.662104 - The test -pass 5
+2023-01-23 12:02:13.707081 - The initial acceleration was not successful
+2023-01-23 12:02:13.707081 - Car stopped.
+
+2023-01-23 12:02:13.707081 - The test -pass 10
+2023-01-23 12:02:13.707081 - Car started moving.
+2023-01-23 12:02:13.707081 - Accelerated by 30 to 20 km/h
+
+2023-01-23 12:02:13.707081 - The test -pass 8
+2023-01-23 12:02:13.707081 - Accelerated by 60 to 20 km/h
+
+2023-01-23 12:02:13.707081 - The test -pass 9
+2023-01-23 12:02:13.707081 - 2023-01-23 12:02:13.707081 - Cannot refuel with negative amount.
+2023-01-23 12:02:13.707081 - 2023-01-23 12:02:13.707081 - Cannot refuel with negative amount.
+2023-01-23 12:02:13.707081 - 2023-01-23 12:02:13.707081 - Cannot refuel with negative amount.
+2023-01-23 12:02:13.720254 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 12:02:13.720254
+
+2023-01-23 12:02:13.720254 - The test -pass 0
+2023-01-23 12:02:13.720254 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 12:02:13.720254
+
+2023-01-23 12:02:13.720254 - The test -pass 3
+2023-01-23 12:02:13.720254 - The test -failed 3
+2023-01-23 12:02:13.722807 - 2023-01-23 12:02:13.722807 - Cannot refuel with negative amount.
+2023-01-23 12:02:13.722807 - The test -failed 4
+2023-01-23 12:02:13.722807 - The test -pass 1
+2023-01-23 12:02:13.722807 - The test -pass 2
+2023-01-23 12:02:13.722807 - Car stopped.
+
+2023-01-23 12:02:13.722807 - The test -pass 6
+2023-01-23 12:02:13.722807 - Car stopped.
+
+2023-01-23 12:02:13.722807 - The test -pass 5
+2023-01-23 12:03:40.612572 - The initial acceleration was not successful
+2023-01-23 12:03:40.612572 - Accelerated by 30 to 20 km/h
+
+2023-01-23 12:03:40.612572 - The test -failed 8
+2023-01-23 12:03:40.626590 - 2023-01-23 12:03:40.626590 - Cannot refuel with negative amount.
+2023-01-23 12:04:59.276185 - 2023-01-23 12:04:59.276185 - Cannot refuel with negative amount.
+2023-01-23 12:04:59.276185 - The test -pass 11
+2023-01-23 12:05:34.433074 - 2023-01-23 12:05:34.433074 - Cannot refuel with negative amount.
+2023-01-23 12:05:34.433074 - The test -pass 11
+2023-01-23 12:05:38.717321 - The initial acceleration was not successful
+2023-01-23 12:05:38.717321 - Car stopped.
+
+2023-01-23 12:05:38.717321 - The test -pass 10
+2023-01-23 12:05:38.717321 - Car started moving.
+2023-01-23 12:05:38.717321 - Accelerated by 30 to 20 km/h
+
+2023-01-23 12:05:38.717321 - The test -pass 8
+2023-01-23 12:05:38.717321 - Accelerated by 60 to 20 km/h
+
+2023-01-23 12:05:38.717321 - The test -pass 9
+2023-01-23 12:05:38.717321 - 2023-01-23 12:05:38.717321 - Cannot refuel with negative amount.
+2023-01-23 12:05:38.717321 - The test -pass 11
+2023-01-23 12:05:38.717321 - 2023-01-23 12:05:38.717321 - Cannot refuel with negative amount.
+2023-01-23 12:05:38.717321 - The test -pass 12
+2023-01-23 12:05:38.725865 - The test -pass 13
+2023-01-23 12:05:38.725865 - 2023-01-23 12:05:38.725865 - Cannot refuel with negative amount.
+2023-01-23 12:05:38.725865 - The test -pass 14
+2023-01-23 12:05:38.725865 - The test -pass 15
+2023-01-23 12:05:38.725865 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 12:05:38.725865
+
+2023-01-23 12:05:38.725865 - The test -pass 0
+2023-01-23 12:05:38.725865 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 12:05:38.725865
+
+2023-01-23 12:05:38.725865 - The test -pass 3
+2023-01-23 12:05:38.725865 - The test -failed 3
+2023-01-23 12:05:38.725865 - 2023-01-23 12:05:38.725865 - Cannot refuel with negative amount.
+2023-01-23 12:05:38.725865 - The test -failed 4
+2023-01-23 12:05:38.725865 - The test -pass 1
+2023-01-23 12:05:38.725865 - The test -pass 2
+2023-01-23 12:05:38.725865 - Car stopped.
+
+2023-01-23 12:05:38.725865 - The test -pass 6
+2023-01-23 12:05:38.725865 - Car stopped.
+
+2023-01-23 12:05:38.725865 - The test -pass 5
+2023-01-23 12:07:31.547213 - The initial acceleration was not successful
+2023-01-23 12:07:31.547213 - The initial acceleration was not successful
+2023-01-23 12:07:31.547213 - Accelerated by 60 to 50 km/h
+
+2023-01-23 12:07:31.547213 - Refueled 440 liters, current fuel level is 6 liters.2023-01-23 12:07:31.547213
+
+2023-01-23 12:07:42.640250 - The initial acceleration was not successful
+2023-01-23 12:07:42.640250 - The initial acceleration was not successful
+2023-01-23 12:07:42.640250 - Accelerated by 60 to 50 km/h
+
+2023-01-23 12:07:42.640250 - Refueled 440 liters, current fuel level is 6 liters.2023-01-23 12:07:42.640250
+
+2023-01-23 12:07:42.640250 - Car stopped.
+
+2023-01-23 12:07:42.640250 - Car started moving.
+2023-01-23 12:16:28.936705 - The initial acceleration was not successful
+2023-01-23 12:16:28.936705 - Car stopped.
+
+2023-01-23 12:16:28.936705 - The test -pass 10
+2023-01-23 12:16:28.936705 - Car started moving.
+2023-01-23 12:16:28.936705 - Accelerated by 30 to 20 km/h
+
+2023-01-23 12:16:28.936705 - The test -pass 8
+2023-01-23 12:16:28.936705 - Accelerated by 60 to 20 km/h
+
+2023-01-23 12:16:28.936705 - The test -pass 9
+2023-01-23 12:16:28.936705 - 2023-01-23 12:16:28.936705 - Cannot refuel with negative amount.
+2023-01-23 12:16:28.936705 - The test -pass 11
+2023-01-23 12:16:28.947682 - 2023-01-23 12:16:28.947682 - Cannot refuel with negative amount.
+2023-01-23 12:16:28.947682 - The test -pass 12
+2023-01-23 12:16:28.948246 - The test -pass 13
+2023-01-23 12:16:28.948246 - 2023-01-23 12:16:28.948246 - Cannot refuel with negative amount.
+2023-01-23 12:16:28.948246 - The test -pass 14
+2023-01-23 12:16:28.948246 - The test -pass 15
+2023-01-23 12:16:28.958973 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 12:16:28.958973
+
+2023-01-23 12:16:28.958973 - The test -pass 0
+2023-01-23 12:16:28.963736 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 12:16:28.963736
+
+2023-01-23 12:16:28.963736 - The test -pass 3
+2023-01-23 12:16:28.963736 - The test -failed 3
+2023-01-23 12:16:28.968614 - 2023-01-23 12:16:28.968614 - Cannot refuel with negative amount.
+2023-01-23 12:16:28.968614 - The test -failed 4
+2023-01-23 12:16:28.973173 - The test -pass 1
+2023-01-23 12:16:28.975143 - The test -pass 2
+2023-01-23 12:16:28.978942 - Car stopped.
+
+2023-01-23 12:16:28.978942 - The test -pass 6
+2023-01-23 12:16:28.980210 - Car stopped.
+
+2023-01-23 12:16:28.980210 - The test -pass 5
+2023-01-23 13:07:44.437307 - The initial acceleration was not successful
+2023-01-23 13:07:44.437452 - Car stopped.
+
+2023-01-23 13:07:44.437452 - The test -pass 10
+2023-01-23 13:07:44.437452 - Car started moving.
+2023-01-23 13:07:44.437452 - Accelerated by 30 to 20 km/h
+
+2023-01-23 13:07:44.437452 - The test -pass 8
+2023-01-23 13:07:44.437452 - Accelerated by 60 to 20 km/h
+
+2023-01-23 13:07:44.437452 - The test -pass 9
+2023-01-23 13:07:44.437452 - 2023-01-23 13:07:44.437452 - Cannot refuel with negative amount.
+2023-01-23 13:07:44.437452 - The test -pass 11
+2023-01-23 13:07:44.448201 - 2023-01-23 13:07:44.448201 - Cannot refuel with negative amount.
+2023-01-23 13:07:44.448201 - The test -pass 12
+2023-01-23 13:07:44.448775 - The test -pass 13
+2023-01-23 13:07:44.448775 - 2023-01-23 13:07:44.448775 - Cannot refuel with negative amount.
+2023-01-23 13:07:44.448775 - The test -pass 14
+2023-01-23 13:07:44.448775 - The test -pass 15
+2023-01-23 13:07:44.457513 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 13:07:44.457513
+
+2023-01-23 13:07:44.457513 - The test -pass 0
+2023-01-23 13:07:44.463332 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 13:07:44.463332
+
+2023-01-23 13:07:44.463332 - The test -pass 3
+2023-01-23 13:07:44.463332 - The test -failed 3
+2023-01-23 13:07:44.467521 - 2023-01-23 13:07:44.467521 - Cannot refuel with negative amount.
+2023-01-23 13:07:44.467521 - The test -failed 4
+2023-01-23 13:07:44.469247 - The test -pass 1
+2023-01-23 13:07:44.469247 - The test -pass 2
+2023-01-23 13:07:44.469247 - Car stopped.
+
+2023-01-23 13:07:44.469247 - The test -pass 6
+2023-01-23 13:07:44.477359 - Car stopped.
+
+2023-01-23 13:07:44.479432 - The test -pass 5
+2023-01-23 13:09:35.867386 - The initial acceleration was not successful
+2023-01-23 13:09:35.867386 - Car stopped.
+
+2023-01-23 13:09:35.867386 - The test -pass 10
+2023-01-23 13:09:35.867386 - Car started moving.
+2023-01-23 13:09:35.867386 - Accelerated by 30 to 20 km/h
+
+2023-01-23 13:09:35.867386 - The test -pass 8
+2023-01-23 13:09:35.876414 - Accelerated by 60 to 20 km/h
+
+2023-01-23 13:09:35.876414 - The test -pass 9
+2023-01-23 13:09:35.880321 - 2023-01-23 13:09:35.880321 - Cannot refuel with negative amount.
+2023-01-23 13:09:35.880321 - The test -pass 11
+2023-01-23 13:09:35.883320 - 2023-01-23 13:09:35.883320 - Cannot refuel with negative amount.
+2023-01-23 13:09:35.883320 - The test -pass 12
+2023-01-23 13:09:35.884855 - The test -pass 13
+2023-01-23 13:09:35.890489 - 2023-01-23 13:09:35.890489 - Cannot refuel with negative amount.
+2023-01-23 13:09:35.890489 - The test -pass 14
+2023-01-23 13:09:35.892247 - The test -pass 15
+2023-01-23 13:09:35.898796 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 13:09:35.898796
+
+2023-01-23 13:09:35.898796 - The test -pass 0
+2023-01-23 13:09:35.903208 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 13:09:35.903208
+
+2023-01-23 13:09:35.903208 - The test -pass 3
+2023-01-23 13:09:35.903208 - {AssertionError('Exception not raised')}
+2023-01-23 13:09:35.906371 - 2023-01-23 13:09:35.906371 - Cannot refuel with negative amount.
+2023-01-23 13:09:35.906371 - The test -failed 4
+2023-01-23 13:09:35.913067 - The test -pass 1
+2023-01-23 13:09:35.914593 - The test -pass 2
+2023-01-23 13:09:35.914593 - Car stopped.
+
+2023-01-23 13:09:35.914593 - The test -pass 6
+2023-01-23 13:09:35.914593 - Car stopped.
+
+2023-01-23 13:09:35.914593 - The test -pass 5
+2023-01-23 13:09:43.743852 - The initial acceleration was not successful
+2023-01-23 13:09:43.743852 - Car stopped.
+
+2023-01-23 13:09:43.743852 - The test -pass 10
+2023-01-23 13:09:43.756883 - Car started moving.
+2023-01-23 13:09:43.756883 - Accelerated by 30 to 20 km/h
+
+2023-01-23 13:09:43.756883 - The test -pass 8
+2023-01-23 13:09:43.756883 - Accelerated by 60 to 20 km/h
+
+2023-01-23 13:09:43.756883 - The test -pass 9
+2023-01-23 13:09:43.756883 - 2023-01-23 13:09:43.756883 - Cannot refuel with negative amount.
+2023-01-23 13:09:43.756883 - The test -pass 11
+2023-01-23 13:09:43.756883 - 2023-01-23 13:09:43.756883 - Cannot refuel with negative amount.
+2023-01-23 13:09:43.756883 - The test -pass 12
+2023-01-23 13:09:43.756883 - The test -pass 13
+2023-01-23 13:09:43.777020 - 2023-01-23 13:09:43.777020 - Cannot refuel with negative amount.
+2023-01-23 13:09:43.777020 - The test -pass 14
+2023-01-23 13:09:43.777020 - The test -pass 15
+2023-01-23 13:09:43.777020 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 13:09:43.777020
+
+2023-01-23 13:09:43.777020 - The test -pass 0
+2023-01-23 13:09:43.777020 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 13:09:43.777020
+
+2023-01-23 13:09:43.777020 - The test -pass 3
+2023-01-23 13:09:43.777020 - {AssertionError('Exception not raised')}
+2023-01-23 13:09:43.790506 - 2023-01-23 13:09:43.790506 - Cannot refuel with negative amount.
+2023-01-23 13:09:43.790506 - The test -failed 4
+2023-01-23 13:09:43.790506 - The test -pass 1
+2023-01-23 13:09:43.790506 - The test -pass 2
+2023-01-23 13:09:43.790506 - Car stopped.
+
+2023-01-23 13:09:43.790506 - The test -pass 6
+2023-01-23 13:09:43.804581 - Car stopped.
+
+2023-01-23 13:09:43.804581 - The test -pass 5
+2023-01-23 13:15:42.757042 - The initial acceleration was not successful
+2023-01-23 13:15:42.757042 - Car stopped.
+
+2023-01-23 13:15:42.757042 - The test -pass 10
+2023-01-23 13:15:42.757042 - Car started moving.
+2023-01-23 13:15:42.757042 - Accelerated by 30 to 20 km/h
+
+2023-01-23 13:15:42.757042 - The test -pass 8
+2023-01-23 13:15:42.763010 - Accelerated by 60 to 20 km/h
+
+2023-01-23 13:15:42.763010 - The test -pass 9
+2023-01-23 13:15:42.763010 - 2023-01-23 13:15:42.763010 - Cannot refuel with negative amount.
+2023-01-23 13:15:42.763010 - The test -pass 11
+2023-01-23 13:15:42.769538 - 2023-01-23 13:15:42.769538 - Cannot refuel with negative amount.
+2023-01-23 13:15:42.769538 - The test -pass 12
+2023-01-23 13:15:42.769538 - The test -pass 13
+2023-01-23 13:15:42.769538 - 2023-01-23 13:15:42.769538 - Cannot refuel with negative amount.
+2023-01-23 13:15:42.769538 - The test -pass 14
+2023-01-23 13:15:42.769538 - The test -pass 15
+2023-01-23 13:15:42.769538 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 13:15:42.769538
+
+2023-01-23 13:15:42.769538 - The test -pass 0
+2023-01-23 13:15:42.786358 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 13:15:42.786358
+
+2023-01-23 13:15:42.786358 - The test -pass 3
+2023-01-23 13:15:42.786358 - {AssertionError('ValueError not raised')}
+2023-01-23 13:15:42.786358 - 2023-01-23 13:15:42.786358 - Cannot refuel with negative amount.
+2023-01-23 13:15:42.786358 - The test -failed 4
+2023-01-23 13:15:42.786358 - The test -pass 1
+2023-01-23 13:15:42.786358 - The test -pass 2
+2023-01-23 13:15:42.786358 - Car stopped.
+
+2023-01-23 13:15:42.786358 - The test -pass 6
+2023-01-23 13:15:42.800876 - Car stopped.
+
+2023-01-23 13:15:42.800876 - The test -pass 5
+2023-01-23 13:16:50.265789 - The initial acceleration was not successful
+2023-01-23 13:16:50.265789 - Car stopped.
+
+2023-01-23 13:16:50.265789 - The test -pass 10
+2023-01-23 13:16:50.265789 - Car started moving.
+2023-01-23 13:16:50.265789 - Accelerated by 30 to 20 km/h
+
+2023-01-23 13:16:50.265789 - The test -pass 8
+2023-01-23 13:16:50.274369 - Accelerated by 60 to 20 km/h
+
+2023-01-23 13:16:50.274369 - The test -pass 9
+2023-01-23 13:16:50.274369 - 2023-01-23 13:16:50.274369 - Cannot refuel with negative amount.
+2023-01-23 13:16:50.274369 - The test -pass 11
+2023-01-23 13:16:50.274369 - 2023-01-23 13:16:50.274369 - Cannot refuel with negative amount.
+2023-01-23 13:16:50.274369 - The test -pass 12
+2023-01-23 13:16:50.274369 - The test -pass 13
+2023-01-23 13:16:50.274369 - 2023-01-23 13:16:50.274369 - Cannot refuel with negative amount.
+2023-01-23 13:16:50.274369 - The test -pass 14
+2023-01-23 13:16:50.290074 - The test -pass 15
+2023-01-23 13:16:50.290074 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 13:16:50.290074
+
+2023-01-23 13:16:50.290074 - The test -pass 0
+2023-01-23 13:16:50.290074 - Refueled 0 liters, current fuel level is 10 liters.2023-01-23 13:16:50.290074
+
+2023-01-23 13:16:50.290074 - {AssertionError('ValueError not raised')}
+2023-01-23 13:16:50.303045 - 2023-01-23 13:16:50.303045 - Cannot refuel with negative amount.
+2023-01-23 13:16:50.303045 - The test -failed 4
+2023-01-23 13:16:50.306121 - The test -pass 1
+2023-01-23 13:16:50.308812 - The test -pass 2
+2023-01-23 13:16:50.308812 - Car stopped.
+
+2023-01-23 13:16:50.308812 - The test -pass 6
+2023-01-23 13:16:50.308812 - Car stopped.
+
+2023-01-23 13:16:50.308812 - The test -pass 5
+2023-01-23 13:19:07.895824 - The initial acceleration was not successful
+2023-01-23 13:19:07.895824 - Car stopped.
+
+2023-01-23 13:19:07.895824 - The test -pass 10
+2023-01-23 13:19:07.895824 - Car started moving.
+2023-01-23 13:19:07.895824 - Accelerated by 30 to 20 km/h
+
+2023-01-23 13:19:07.895824 - The test -pass 8
+2023-01-23 13:19:07.895824 - Accelerated by 60 to 20 km/h
+
+2023-01-23 13:19:07.895824 - The test -pass 9
+2023-01-23 13:19:07.895824 - 2023-01-23 13:19:07.895824 - Cannot refuel with negative amount.
+2023-01-23 13:19:07.895824 - The test -pass 11
+2023-01-23 13:19:07.913461 - 2023-01-23 13:19:07.913461 - Cannot refuel with negative amount.
+2023-01-23 13:19:07.913461 - The test -pass 12
+2023-01-23 13:19:07.915743 - The test -pass 13
+2023-01-23 13:19:07.915743 - 2023-01-23 13:19:07.915743 - Cannot refuel with negative amount.
+2023-01-23 13:19:07.915743 - The test -pass 14
+2023-01-23 13:19:07.915743 - The test -pass 15
+2023-01-23 13:19:07.927262 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 13:19:07.927262
+
+2023-01-23 13:19:07.927262 - The test -pass 0
+2023-01-23 13:19:07.932652 - 2023-01-23 13:19:07.932652 - Cannot refuel with negative amount.
+2023-01-23 13:19:07.932652 - The test -pass 3
+2023-01-23 13:19:07.935842 - 2023-01-23 13:19:07.935842 - Cannot refuel with negative amount.
+2023-01-23 13:19:07.935842 - The test -failed 4
+2023-01-23 13:19:07.935842 - The test -pass 1
+2023-01-23 13:19:07.935842 - The test -pass 2
+2023-01-23 13:19:07.943413 - Car stopped.
+
+2023-01-23 13:19:07.943413 - The test -pass 6
+2023-01-23 13:19:07.945260 - Car stopped.
+
+2023-01-23 13:19:07.945260 - The test -pass 5
+2023-01-23 13:22:20.842334 - The initial acceleration was not successful
+2023-01-23 13:22:20.842334 - Car stopped.
+
+2023-01-23 13:22:20.842334 - The test -pass 10
+2023-01-23 13:22:20.849658 - Car started moving.
+2023-01-23 13:22:20.849658 - Accelerated by 30 to 20 km/h
+
+2023-01-23 13:22:20.849658 - The test -pass 8
+2023-01-23 13:22:20.854489 - Accelerated by 60 to 20 km/h
+
+2023-01-23 13:22:20.854489 - The test -pass 9
+2023-01-23 13:22:20.860263 - 2023-01-23 13:22:20.860263 - Cannot refuel with negative amount.
+2023-01-23 13:22:20.860263 - The test -pass 11
+2023-01-23 13:22:20.865256 - 2023-01-23 13:22:20.865256 - Cannot refuel with negative amount.
+2023-01-23 13:22:20.865256 - The test -pass 12
+2023-01-23 13:22:20.868524 - The test -pass 13
+2023-01-23 13:22:20.877043 - 2023-01-23 13:22:20.877043 - Cannot refuel with negative amount.
+2023-01-23 13:22:20.877043 - The test -pass 14
+2023-01-23 13:22:20.878621 - The test -pass 15
+2023-01-23 13:22:20.891396 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 13:22:20.891396
+
+2023-01-23 13:22:20.891396 - The test -pass 0
+2023-01-23 13:22:20.898315 - 2023-01-23 13:22:20.898315 - Cannot refuel with negative amount.
+2023-01-23 13:22:20.898315 - {<unittest.case._AssertRaisesContext object at 0x000001F3F0DA2290>}
+2023-01-23 13:22:20.902927 - 2023-01-23 13:22:20.902927 - Cannot refuel with negative amount.
+2023-01-23 13:22:20.905178 - The test -failed 4
+2023-01-23 13:22:20.910265 - The test -pass 1
+2023-01-23 13:22:20.910265 - The test -pass 2
+2023-01-23 13:22:20.910265 - Car stopped.
+
+2023-01-23 13:22:20.910265 - The test -pass 6
+2023-01-23 13:22:20.925920 - Car stopped.
+
+2023-01-23 13:22:20.925920 - The test -pass 5
+2023-01-23 13:23:02.422741 - The initial acceleration was not successful
+2023-01-23 13:23:02.422741 - Car stopped.
+
+2023-01-23 13:23:02.422741 - The test -pass 10
+2023-01-23 13:23:02.422741 - Car started moving.
+2023-01-23 13:23:02.422741 - Accelerated by 30 to 20 km/h
+
+2023-01-23 13:23:02.422741 - The test -pass 8
+2023-01-23 13:23:02.422741 - Accelerated by 60 to 20 km/h
+
+2023-01-23 13:23:02.422741 - The test -pass 9
+2023-01-23 13:23:02.422741 - 2023-01-23 13:23:02.422741 - Cannot refuel with negative amount.
+2023-01-23 13:23:02.422741 - The test -pass 11
+2023-01-23 13:23:02.422741 - 2023-01-23 13:23:02.422741 - Cannot refuel with negative amount.
+2023-01-23 13:23:02.422741 - The test -pass 12
+2023-01-23 13:23:02.422741 - The test -pass 13
+2023-01-23 13:23:02.422741 - 2023-01-23 13:23:02.422741 - Cannot refuel with negative amount.
+2023-01-23 13:23:02.422741 - The test -pass 14
+2023-01-23 13:23:02.422741 - The test -pass 15
+2023-01-23 13:23:02.438359 - Refueled 400 liters, current fuel level is 10 liters.2023-01-23 13:23:02.438359
+
+2023-01-23 13:23:02.438359 - The test -pass 0
+2023-01-23 13:23:02.438359 - 2023-01-23 13:23:02.438359 - Cannot refuel with negative amount.
+2023-01-23 13:23:02.438359 - {ValueError('Cannot refuel with negative amount.')}
+2023-01-23 13:23:02.438359 - 2023-01-23 13:23:02.438359 - Cannot refuel with negative amount.
+2023-01-23 13:23:02.438359 - The test -failed 4
+2023-01-23 13:23:02.438359 - The test -pass 1
+2023-01-23 13:23:02.438359 - The test -pass 2
+2023-01-23 13:23:02.438359 - Car stopped.
+
+2023-01-23 13:23:02.438359 - The test -pass 6
+2023-01-23 13:23:02.438359 - Car stopped.
+
+2023-01-23 13:23:02.438359 - The test -pass 5
